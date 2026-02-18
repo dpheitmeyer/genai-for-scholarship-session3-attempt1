@@ -10,6 +10,6 @@ I would like to repeat this using Claude Opus 4.6, and also spend a bit more tim
 
 ## Reports Produced
 
-- (Machine Learning Summary)[./ml_summary.html]
-- (ML-Based Sunset Temperature Prediction)[./ml_results_report.html]
-- (Rubin Observatory Mirror Temperature Analysis)[./lab_notebook.html]
+- [Machine Learning Summary](./ml_summary.html)
+- [ML-Based Sunset Temperature Prediction](./ml_results_report.html)
+- [Rubin Observatory Mirror Temperature Analysis](./lab_notebook.html)
