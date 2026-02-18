@@ -1,3 +1,6 @@
+---
+title: Session 3 attempt from GAI for Scholarship
+---
 # Session 3 attempt from GAI for Scholarship 
 
 Instructions and session materials are from: [Generative AI for Scholarship - Session 3](https://astrostubbs.github.io/GenAI-for-Scholarship/session3-power-user.html)
