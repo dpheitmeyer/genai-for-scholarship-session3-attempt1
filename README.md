@@ -1,6 +1,6 @@
 # Session 3 attempt from GAI for Scholarship 
 
-[Generative AI for Scholarship - Session 3](https://astrostubbs.github.io/GenAI-for-Scholarship/session3-power-user.html)
+Instructions and session materials are from: [Generative AI for Scholarship - Session 3](https://astrostubbs.github.io/GenAI-for-Scholarship/session3-power-user.html)
 
 I used Claude Code from the command line, and Anthropic models via AWS Bedrock (Model was Claude Sonnet 4.5; small fast model was Claude Haiku 4.5)
 
@@ -10,6 +10,6 @@ I would like to repeat this using Claude Opus 4.6, and also spend a bit more tim
 
 ## Reports Produced
 
-- (Machine Learning Summary)[ml_summary.html]
-- (ML-Based Sunset Temperature Prediction)[ml_results_report.html]
-- (Rubin Observatory Mirror Temperature Analysis)[lab_notebook.html]
+- (Machine Learning Summary)[./ml_summary.html]
+- (ML-Based Sunset Temperature Prediction)[./ml_results_report.html]
+- (Rubin Observatory Mirror Temperature Analysis)[./lab_notebook.html]
