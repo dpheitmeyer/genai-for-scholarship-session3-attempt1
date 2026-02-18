@@ -1,6 +1,6 @@
 # Session 3 attempt from GAI for Scholarship 
 
-[https://astrostubbs.github.io/GenAI-for-Scholarship/session3-power-user.html](Generative AI for Scholarship - Session 3)
+[Generative AI for Scholarship - Session 3](https://astrostubbs.github.io/GenAI-for-Scholarship/session3-power-user.html)
 
 I used Claude Code from the command line, and Anthropic models via AWS Bedrock (Model was Claude Sonnet 4.5; small fast model was Claude Haiku 4.5)
 
